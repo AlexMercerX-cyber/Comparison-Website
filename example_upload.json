@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ph_custom_1",
+    "categoryId": "phone",
+    "brand": "Sony",
+    "model": "Xperia 1 V",
+    "specs": {
+      "battery_mAh": 5000,
+      "soc_score": 900,
+      "display_refresh": 120,
+      "camera_mp": 52,
+      "weight_g": 187,
+      "price_inr": 89999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph_custom_2",
+    "categoryId": "phone",
+    "brand": "Asus",
+    "model": "ROG Phone 7",
+    "specs": {
+      "battery_mAh": 6000,
+      "soc_score": 940,
+      "display_refresh": 165,
+      "camera_mp": 50,
+      "weight_g": 239,
+      "price_inr": 69999
+    },
+    "releaseYear": 2023
+  }
+]
