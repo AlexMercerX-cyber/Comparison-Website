@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ph1",
+    "categoryId": "phone",
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "specs": {
+      "battery_mAh": 4000,
+      "soc_score": 950,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 167,
+      "price_inr": 79999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph2",
+    "categoryId": "phone",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "specs": {
+      "battery_mAh": 3877,
+      "soc_score": 980,
+      "display_refresh": 60,
+      "camera_mp": 48,
+      "weight_g": 171,
+      "price_inr": 79900
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph3",
+    "categoryId": "phone",
+    "brand": "Google",
+    "model": "Pixel 8",
+    "specs": {
+      "battery_mAh": 4575,
+      "soc_score": 870,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 187,
+      "price_inr": 75999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph4",
+    "categoryId": "phone",
+    "brand": "OnePlus",
+    "model": "12",
+    "specs": {
+      "battery_mAh": 5400,
+      "soc_score": 920,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 220,
+      "price_inr": 64999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph5",
+    "categoryId": "phone",
+    "brand": "Xiaomi",
+    "model": "14",
+    "specs": {
+      "battery_mAh": 4610,
+      "soc_score": 950,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 193,
+      "price_inr": 69999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph6",
+    "categoryId": "phone",
+    "brand": "Vivo",
+    "model": "X100",
+    "specs": {
+      "battery_mAh": 5000,
+      "soc_score": 900,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 206,
+      "price_inr": 63999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph7",
+    "categoryId": "phone",
+    "brand": "Nothing",
+    "model": "Phone 2",
+    "specs": {
+      "battery_mAh": 4700,
+      "soc_score": 850,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 201,
+      "price_inr": 44999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph8",
+    "categoryId": "phone",
+    "brand": "Realme",
+    "model": "GT 5",
+    "specs": {
+      "battery_mAh": 5240,
+      "soc_score": 920,
+      "display_refresh": 144,
+      "camera_mp": 50,
+      "weight_g": 205,
+      "price_inr": 42999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph9",
+    "categoryId": "phone",
+    "brand": "Motorola",
+    "model": "Edge 40",
+    "specs": {
+      "battery_mAh": 4400,
+      "soc_score": 780,
+      "display_refresh": 144,
+      "camera_mp": 50,
+      "weight_g": 167,
+      "price_inr": 29999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph10",
+    "categoryId": "phone",
+    "brand": "Oppo",
+    "model": "Reno 11",
+    "specs": {
+      "battery_mAh": 4800,
+      "soc_score": 820,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 182,
+      "price_inr": 37999
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "ph11",
+    "categoryId": "phone",
+    "brand": "Samsung",
+    "model": "Galaxy A54",
+    "specs": {
+      "battery_mAh": 5000,
+      "soc_score": 680,
+      "display_refresh": 120,
+      "camera_mp": 50,
+      "weight_g": 202,
+      "price_inr": 38999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "ph12",
+    "categoryId": "phone",
+    "brand": "Google",
+    "model": "Pixel 7a",
+    "specs": {
+      "battery_mAh": 4385,
+      "soc_score": 820,
+      "display_refresh": 90,
+      "camera_mp": 64,
+      "weight_g": 193,
+      "price_inr": 43999
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp1",
+    "categoryId": "laptop",
+    "brand": "Apple",
+    "model": "MacBook Air M2",
+    "specs": {
+      "ram_gb": 8,
+      "cpu_score": 2400,
+      "battery_wh": 52,
+      "storage_gb": 256,
+      "weight_kg": 1.24,
+      "price_inr": 114900
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp2",
+    "categoryId": "laptop",
+    "brand": "Dell",
+    "model": "XPS 13",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2200,
+      "battery_wh": 55,
+      "storage_gb": 512,
+      "weight_kg": 1.27,
+      "price_inr": 139990
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "lp3",
+    "categoryId": "laptop",
+    "brand": "HP",
+    "model": "Spectre x360",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2100,
+      "battery_wh": 68,
+      "storage_gb": 512,
+      "weight_kg": 1.36,
+      "price_inr": 149990
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "lp4",
+    "categoryId": "laptop",
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2300,
+      "battery_wh": 57,
+      "storage_gb": 512,
+      "weight_kg": 1.12,
+      "price_inr": 159990
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "lp5",
+    "categoryId": "laptop",
+    "brand": "Asus",
+    "model": "ZenBook 14",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2000,
+      "battery_wh": 63,
+      "storage_gb": 512,
+      "weight_kg": 1.39,
+      "price_inr": 89990
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp6",
+    "categoryId": "laptop",
+    "brand": "Microsoft",
+    "model": "Surface Laptop 5",
+    "specs": {
+      "ram_gb": 8,
+      "cpu_score": 2100,
+      "battery_wh": 47,
+      "storage_gb": 256,
+      "weight_kg": 1.29,
+      "price_inr": 109990
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp7",
+    "categoryId": "laptop",
+    "brand": "Acer",
+    "model": "Swift 5",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 1900,
+      "battery_wh": 56,
+      "storage_gb": 512,
+      "weight_kg": 1.05,
+      "price_inr": 79990
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp8",
+    "categoryId": "laptop",
+    "brand": "MSI",
+    "model": "Prestige 14",
+    "specs": {
+      "ram_gb": 32,
+      "cpu_score": 2500,
+      "battery_wh": 52,
+      "storage_gb": 1024,
+      "weight_kg": 1.29,
+      "price_inr": 149990
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "lp9",
+    "categoryId": "laptop",
+    "brand": "Razer",
+    "model": "Blade 14",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2600,
+      "battery_wh": 61,
+      "storage_gb": 1024,
+      "weight_kg": 1.78,
+      "price_inr": 219990
+    },
+    "releaseYear": 2024
+  },
+  {
+    "id": "lp10",
+    "categoryId": "laptop",
+    "brand": "LG",
+    "model": "Gram 15",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2000,
+      "battery_wh": 72,
+      "storage_gb": 512,
+      "weight_kg": 1.19,
+      "price_inr": 109990
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp11",
+    "categoryId": "laptop",
+    "brand": "Samsung",
+    "model": "Galaxy Book3",
+    "specs": {
+      "ram_gb": 8,
+      "cpu_score": 1800,
+      "battery_wh": 54,
+      "storage_gb": 256,
+      "weight_kg": 1.17,
+      "price_inr": 79990
+    },
+    "releaseYear": 2023
+  },
+  {
+    "id": "lp12",
+    "categoryId": "laptop",
+    "brand": "Huawei",
+    "model": "MateBook 14",
+    "specs": {
+      "ram_gb": 16,
+      "cpu_score": 2200,
+      "battery_wh": 56,
+      "storage_gb": 512,
+      "weight_kg": 1.49,
+      "price_inr": 94990
+    },
+    "releaseYear": 2024
+  }
+]

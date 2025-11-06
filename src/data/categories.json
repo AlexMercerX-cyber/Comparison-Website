@@ -1,0 +1,148 @@
+[
+  {
+    "id": "phone",
+    "name": "Smartphones",
+    "criteria": [
+      {
+        "key": "battery_mAh",
+        "label": "Battery",
+        "type": "number",
+        "goal": "max",
+        "unit": "mAh"
+      },
+      {
+        "key": "soc_score",
+        "label": "CPU/GPU Perf",
+        "type": "number",
+        "goal": "max"
+      },
+      {
+        "key": "display_refresh",
+        "label": "Refresh Rate",
+        "type": "number",
+        "goal": "max",
+        "unit": "Hz"
+      },
+      {
+        "key": "camera_mp",
+        "label": "Main Camera",
+        "type": "number",
+        "goal": "max",
+        "unit": "MP"
+      },
+      {
+        "key": "weight_g",
+        "label": "Weight",
+        "type": "number",
+        "goal": "min",
+        "unit": "g"
+      },
+      {
+        "key": "price_inr",
+        "label": "Price",
+        "type": "number",
+        "goal": "min",
+        "unit": "₹"
+      }
+    ],
+    "presets": {
+      "Student": {
+        "battery_mAh": 30,
+        "soc_score": 25,
+        "display_refresh": 15,
+        "camera_mp": 10,
+        "weight_g": 10,
+        "price_inr": 10
+      },
+      "Gamer": {
+        "battery_mAh": 20,
+        "soc_score": 40,
+        "display_refresh": 25,
+        "camera_mp": 5,
+        "weight_g": 5,
+        "price_inr": 5
+      },
+      "Traveler": {
+        "battery_mAh": 35,
+        "soc_score": 15,
+        "display_refresh": 10,
+        "camera_mp": 20,
+        "weight_g": 15,
+        "price_inr": 5
+      }
+    }
+  },
+  {
+    "id": "laptop",
+    "name": "Laptops",
+    "criteria": [
+      {
+        "key": "ram_gb",
+        "label": "RAM",
+        "type": "number",
+        "goal": "max",
+        "unit": "GB"
+      },
+      {
+        "key": "cpu_score",
+        "label": "CPU Performance",
+        "type": "number",
+        "goal": "max"
+      },
+      {
+        "key": "battery_wh",
+        "label": "Battery",
+        "type": "number",
+        "goal": "max",
+        "unit": "Wh"
+      },
+      {
+        "key": "storage_gb",
+        "label": "Storage",
+        "type": "number",
+        "goal": "max",
+        "unit": "GB"
+      },
+      {
+        "key": "weight_kg",
+        "label": "Weight",
+        "type": "number",
+        "goal": "min",
+        "unit": "kg"
+      },
+      {
+        "key": "price_inr",
+        "label": "Price",
+        "type": "number",
+        "goal": "min",
+        "unit": "₹"
+      }
+    ],
+    "presets": {
+      "Student": {
+        "ram_gb": 20,
+        "cpu_score": 25,
+        "battery_wh": 25,
+        "storage_gb": 15,
+        "weight_kg": 10,
+        "price_inr": 5
+      },
+      "Gamer": {
+        "ram_gb": 25,
+        "cpu_score": 40,
+        "battery_wh": 10,
+        "storage_gb": 15,
+        "weight_kg": 5,
+        "price_inr": 5
+      },
+      "Editor": {
+        "ram_gb": 30,
+        "cpu_score": 35,
+        "battery_wh": 15,
+        "storage_gb": 15,
+        "weight_kg": 5,
+        "price_inr": 0
+      }
+    }
+  }
+]
