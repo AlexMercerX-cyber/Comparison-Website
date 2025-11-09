@@ -24,7 +24,9 @@ A web application that helps users compare products using weighted criteria and 
 
 ## 🌐 URLs
 
-**Sandbox**: https://3000-i85dutnmawkf4y3pkz4ol-2e77fc33.sandbox.novita.ai
+**GitHub Repository**: https://github.com/AlexMercerX-cyber/Comparison-Website
+
+**Live Demo**: https://3000-i85dutnmawkf4y3pkz4ol-2e77fc33.sandbox.novita.ai
 
 **API Endpoints**:
 - `GET /api/categories` - List all categories
